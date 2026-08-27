@@ -1,9 +1,5 @@
 # Career-Roadmap
-Distributed Systems &amp; Backend Engineering
 # 🚀 Distributed Systems & Backend Engineering: Master Career Roadmap
-
-# 🚀 Distributed Systems & Backend Engineering: Master Career Roadmap
-
 ## 📌 Master Overview
 * **Target Role:** Distributed Backend & Cloud Engineer (2028 Horizon)
 * **Core Focus:** Resilient server-side systems, microservices, database engine optimization, and cloud architecture.
