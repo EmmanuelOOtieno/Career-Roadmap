@@ -1,5 +1,5 @@
-# Career-Roadmap
 # 🚀 Distributed Systems & Backend Engineering: Master Career Roadmap
+
 ## 📌 Master Overview
 * **Target Role:** Distributed Backend & Cloud Engineer (2028 Horizon)
 * **Core Focus:** Resilient server-side systems, microservices, database engine optimization, and cloud architecture.
@@ -117,11 +117,11 @@
 
 ## 🗓️ Semester-by-Semester Masterplan
 
-### 📍 Year 1, Trimester 2 (Current)
+### 📍 Year 1, Trimester 2 (Current: Sep–Dec 2026)
 > **Theme:** Architectural Fundamentals & Network Programmability
 
 * **Primary Purpose:** Shift from raw coding scripts to structured object-oriented design patterns.
-* **University Units:** `RCS 102` (OOP) & `RCS 104` (System Analysis & Design)
+* **University Units:** `RBCS 7121` (Object-Oriented Programming) & `RBCS 7122` (System Analysis & Design)
 * **Target Certification:** **Cisco DevNet Associate**
 * **Target Project:** **C++ CLI Financial Engine**
   * Build an offline multi-account banking system enforcing strict OOP principles (encapsulation, abstraction, inheritance).
@@ -134,7 +134,7 @@
 > **Theme:** Data Persistence & Algorithmic Foundations
 
 * **Primary Purpose:** Connect software logic to relational databases and begin algorithmic interview prep.
-* **University Units:** `RCS 201` (Data Structures & Algorithms) & `RCS 207` (Database Systems)
+* **University Units:** `RBCS 7213` (Data Structure & Algorithm) & Database Systems Unit
 * **Target Certification:** **Oracle Database SQL Certified Associate**
 * **Target Project:** **Java Spring Boot Banking API**
   * Convert your C++ CLI financial logic into a web API using Java Spring Boot connected to a PostgreSQL database.
@@ -147,7 +147,7 @@
 > **Theme:** Microservices & Containerization
 
 * **Primary Purpose:** Deconstruct monolithic codebases into isolated microservices and package them using containers.
-* **University Units:** `RCS 305` (Software Engineering) & `RCS 209` (Computer Networks)
+* **University Units:** Software Engineering & Computer Networks Electives
 * **Target Certification:** **Huawei HCIA - Cloud Computing**
 * **Target Project:** **Dockerized Microservices Architecture**
   * Split your Java API into independent services (*User Identity Service* & *Transaction Processing Service*) orchestrated via `docker-compose`.
@@ -160,7 +160,7 @@
 > **Theme:** Distributed Cloud Systems & Placement Preparation
 
 * **Primary Purpose:** Deploy containerized microservices to cloud environments and automate code delivery pipelines.
-* **University Units:** `RCS 313` (Distributed Systems)
+* **University Units:** Distributed Systems Elective
 * **Target Certification:** **AWS Certified Cloud Practitioner**
 * **Target Project:** **Cloud-Native Microservices with Automated CI/CD**
   * Host your containerized banking system on live cloud infrastructure (AWS EC2 / App Runner) with automated GitHub Actions testing pipelines.
