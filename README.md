@@ -2,8 +2,9 @@
 
 ## 📌 Master Overview
 * **Target Role:** Distributed Backend & Cloud Engineer (2028 Horizon)
+* **Current Verified Credentials:** Completed Diploma in Computer Science (Riara University) | Cisco Linux Essentials | C++ Essentials
 * **Core Focus:** Resilient server-side systems, microservices, database engine optimization, and cloud architecture.
-* **Academic Baseline:** Target a **3.0 GPA** to clear enterprise HR screening filters without sacrificing deep project build time.
+* **Academic Baseline:** Target a **3.0 GPA** in ongoing BSc. Computer Science to clear enterprise HR screening filters without sacrificing deep project build time.
 * **Core Philosophy:** System architecture depth over surface-level syntax; production-ready GitHub repositories over passive cert collection.
 
 ---
@@ -71,47 +72,28 @@
 
 ---
 
-### 2. Detailed Breakdown of Each Certification
-
-* **Rank 1: AWS Certified Cloud Practitioner / Solutions Architect (Associate)**
-  * *Provider:* Amazon Web Services (AWS)
-  * *What It Is:* The globally dominant cloud credential covering cloud computing principles, IAM security, EC2 instances, S3 storage, RDS databases, and serverless architecture.
-  * *Why It Matters:* AWS holds the largest cloud market share globally. It proves to enterprise tech companies and remote employers that your code can be deployed, scaled, and managed in live cloud production environments.
-
-* **Rank 2: Oracle Database SQL Certified Associate**
-  * *Provider:* Oracle *(Partnered with University)*
-  * *What It Is:* A rigorous credential verifying deep expertise in SQL syntax, database modeling, query optimization, and relational data management on Oracle Database systems.
-  * *Why It Matters:* Enterprise backends (M-Pesa, banking systems, payment rails) run on relational databases. Obtaining this through university access gives you an immediate resume advantage over candidates with basic database knowledge.
-
-* **Rank 3: Cisco DevNet Associate**
-  * *Provider:* Cisco *(Partnered with University)*
-  * *What It Is:* A credential bridging infrastructure networking with software development, covering API integrations, network automation, security, and deployment pipelines.
-  * *Why It Matters:* Complements existing Linux fundamentals by proving you understand how software applications communicate over complex physical and virtual networks.
-
-* **Rank 4: Huawei HCIA - Cloud Computing**
-  * *Provider:* Huawei *(Partnered with University)*
-  * *What It Is:* A foundational cloud infrastructure cert focusing on virtualization platforms, cloud storage, container setups, and network management.
-  * *Why It Matters:* Excellent hands-on coverage of server virtualization and hardware orchestration, expanding your knowledge of how data centers run under the hood.
-
-* **Rank 5: IBM Cloud Application Developer**
-  * *Provider:* IBM *(Partnered with University)*
-  * *What It Is:* Focuses on building, deploying, and scaling cloud-native applications using microservices and DevOps practices on IBM Cloud.
-  * *Why It Matters:* Validates understanding of cloud application architecture, though IBM Cloud carries less overall enterprise hiring weight than AWS or Azure.
-
----
-
-### 3. Recommended Certification Stacks
+### 2. Recommended Certification Stacks
 
 #### ⚡ The Power 2-Stack (Maximum ROI & Essential Foundation)
 1. **AWS Certified Cloud Practitioner** *(Cloud Infrastructure)*
 2. **Oracle Database SQL Certified Associate** *(Data Management)*
-* **Strategic Value:** Covers the two indispensable pillars of modern backend development: **Cloud Infrastructure** (where software runs) and **Enterprise Databases** (where data lives). Combines global market dominance with university-backed enterprise credentials.
+* **Strategic Value:** Covers the two indispensable pillars of modern backend development: **Cloud Infrastructure** and **Enterprise Databases**. Combines global market dominance with university-backed enterprise credentials.
 
 #### 🔥 The Ultimate 3-Stack (The Complete Enterprise Backend Triad)
 1. **AWS Certified Cloud Practitioner / Solutions Architect** *(Cloud Infrastructure)*
 2. **Oracle Database SQL Certified Associate** *(Data Management)*
 3. **Cisco DevNet Associate** *(Network Integration & Automation)*
-* **Strategic Value:** Adds **Network Automation** to Cloud and Data. Signals to engineering teams at companies like Microsoft ADC, Safaricom, or Visa that you possess an end-to-end understanding of cloud servers, databases, and network connectivity.
+* **Strategic Value:** Adds **Network Automation** to Cloud and Data. Signals to engineering teams at top-tier hubs that you possess an end-to-end understanding of cloud servers, databases, and network connectivity.
+
+---
+
+## 🌍 The Parallel Remote Income Track (The Bridge Strategy)
+> **Goal:** Secure remote USD/Euro income before May 2027 while building the engineering portfolio.
+
+* **Phase 1: The Stepping Stone (Immediate - Months 1-8):** Target remote **Technical Support Engineer**, **IT Operations Specialist**, or **QA Tester** roles at global SaaS companies. 
+  * *Advantage:* Leverage completed **Diploma in Computer Science** + enterprise IT internship experience to bypass ATS automated education filters immediately.
+  * *Daily Reality:* Reading logs, writing basic SQL queries, and troubleshooting client API integration issues.
+* **Phase 2: The Internal Pivot (May 2027+):** Once the Java Spring Boot REST API is deployed and the AWS certification is secured, transition internally from the Support/QA team directly into a Junior Backend Engineering role.
 
 ---
 
@@ -130,16 +112,17 @@
 
 ---
 
-### 📍 Year 2, Trimester 1
-> **Theme:** Data Persistence & Algorithmic Foundations
+### 📍 Year 2, Trimester 1 (Target: May 2027 — The Remote-Ready Window)
+> **Theme:** Data Persistence, Algorithmic Foundations & Remote Placement
 
-* **Primary Purpose:** Connect software logic to relational databases and begin algorithmic interview prep.
+* **Primary Purpose:** Connect software logic to relational databases and hit the baseline required for global remote hiring.
 * **University Units:** `RBCS 7213` (Data Structure & Algorithm) & Database Systems Unit
-* **Target Certification:** **Oracle Database SQL Certified Associate**
-* **Target Project:** **Java Spring Boot Banking API**
+* **Target Certifications:** **Oracle Database SQL Certified Associate** & **AWS Certified Cloud Practitioner**
+* **Target Project:** **Java Spring Boot Banking API (Deployed)**
   * Convert your C++ CLI financial logic into a web API using Java Spring Boot connected to a PostgreSQL database.
-* **Skills Mastered:** SQL schema normalization, indexing, REST HTTP methods, JPA/Hibernate ORM, LeetCode Array/Hash Map patterns in C++.
-* **Career Impact:** Moves you from an offline developer to a web backend developer capable of building data pipelines.
+  * *Remote Requirement:* Must have a GitHub Actions CI/CD pipeline and be hosted live on the internet.
+* **Skills Mastered:** SQL schema normalization, indexing, REST HTTP methods, JPA/Hibernate ORM, automated testing.
+* **Career Impact:** This is the exact moment you transition from "CS Student" to "Hireable Junior Remote Developer." 
 
 ---
 
@@ -161,7 +144,6 @@
 
 * **Primary Purpose:** Deploy containerized microservices to cloud environments and automate code delivery pipelines.
 * **University Units:** Distributed Systems Elective
-* **Target Certification:** **AWS Certified Cloud Practitioner**
 * **Target Project:** **Cloud-Native Microservices with Automated CI/CD**
   * Host your containerized banking system on live cloud infrastructure (AWS EC2 / App Runner) with automated GitHub Actions testing pipelines.
 * **Skills Mastered:** CI/CD deployment pipelines, AWS cloud configuration, basic load balancing, IAM cloud security.
