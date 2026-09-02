@@ -1,6 +1,6 @@
-# 🚀 Distributed Systems & Backend Engineering: Master Career Roadmap
+# Distributed Systems & Backend Engineering: Career Roadmap
 
-## 📌 Master Overview
+## Overview and Objectives
 * **Target Role:** Distributed Backend & Cloud Engineer (2028 Horizon)
 * **Current Verified Credentials:** Completed Diploma in Computer Science (Riara University) | Cisco Linux Essentials | C++ Essentials
 * **Core Focus:** Resilient server-side systems, microservices, database engine optimization, and cloud architecture.
@@ -9,7 +9,7 @@
 
 ---
 
-## 🔤 Programming Languages & Learning Roadmap
+## Programming Languages and Progression
 
 ### 1. Language Stack Overview
 
@@ -22,9 +22,9 @@
 
 ---
 
-### 2. Language Learning Roadmap
+### 2. Language Learning Progression
 
-#### 🟢 Phase 1: Core Systems & Object-Oriented Foundations (Current)
+#### Phase 1: Core Systems & Object-Oriented Foundations (Current)
 * **Focus Languages:** C++ and Core Java
 * **Milestones:**
   1. Master explicit memory management in C++ (pointers, references, dynamic allocation, RAII, memory leak prevention).
@@ -32,7 +32,7 @@
   3. Master C++ Standard Template Library (`std::vector`, `std::map`, `std::unordered_map`) and Java Collections Framework (`ArrayList`, `HashMap`, `HashSet`).
 * **Success Checkpoint:** Build an offline CLI banking application with strict object-oriented design patterns.
 
-#### 🟡 Phase 2: Database Querying & Data Engineering (Year 2, Tri 1)
+#### Phase 2: Database Querying & Data Engineering (Year 2, Tri 1)
 * **Focus Languages:** SQL (PostgreSQL / Oracle SQL)
 * **Milestones:**
   1. Master DDL/DML statements, complex multi-table `JOIN` operations, subqueries, and aggregation functions.
@@ -40,7 +40,7 @@
   3. Study database execution performance: B-Tree indexing, transaction isolation levels, and ACID compliance.
 * **Success Checkpoint:** Write raw SQL schemas and connect them to Java using Object-Relational Mapping (ORM via JPA/Hibernate).
 
-#### 🟠 Phase 3: Enterprise Web Frameworks & Microservices (Year 2, Tri 2)
+#### Phase 3: Enterprise Web Frameworks & Microservices (Year 2, Tri 2)
 * **Focus Framework:** Java (Spring Boot) & Bash
 * **Milestones:**
   1. Build RESTful Web APIs using Java Spring Boot (Spring Web, Spring Data JPA, Spring Security).
@@ -48,7 +48,7 @@
   3. Write Bash shell scripts to automate container builds, environment variables, and local testing.
 * **Success Checkpoint:** Expose a fully working web API that accepts HTTP requests, validates payloads, and performs database CRUD operations.
 
-#### 🔴 Phase 4: Concurrency & High-Performance Tuning (Year 3)
+#### Phase 4: Concurrency & High-Performance Tuning (Year 3)
 * **Focus Topics:** Multithreading & Asynchronous Logic (Java Threads & C++ Concurrency)
 * **Milestones:**
   1. Master thread safety, mutexes, locks, race conditions, and thread pools.
@@ -58,7 +58,7 @@
 
 ---
 
-## 📜 Certifications Master Guide & Stack Ranking
+## Certifications Guide & Stack Ranking
 
 ### 1. Complete Certification Ranking Matrix
 
@@ -74,12 +74,12 @@
 
 ### 2. Recommended Certification Stacks
 
-#### ⚡ The Power 2-Stack (Maximum ROI & Essential Foundation)
+#### Core Foundation Stack
 1. **AWS Certified Cloud Practitioner** *(Cloud Infrastructure)*
 2. **Oracle Database SQL Certified Associate** *(Data Management)*
 * **Strategic Value:** Covers the two indispensable pillars of modern backend development: **Cloud Infrastructure** and **Enterprise Databases**. Combines global market dominance with university-backed enterprise credentials.
 
-#### 🔥 The Ultimate 3-Stack (The Complete Enterprise Backend Triad)
+#### Enterprise Backend Stack
 1. **AWS Certified Cloud Practitioner / Solutions Architect** *(Cloud Infrastructure)*
 2. **Oracle Database SQL Certified Associate** *(Data Management)*
 3. **Cisco DevNet Associate** *(Network Integration & Automation)*
@@ -87,7 +87,7 @@
 
 ---
 
-## 🌍 The Parallel Remote Income Track (The Bridge Strategy)
+## Parallel Remote Income Track
 > **Goal:** Secure remote USD/Euro income before May 2027 while building the engineering portfolio.
 
 * **Phase 1: The Stepping Stone (Immediate - Months 1-8):** Target remote **Technical Support Engineer**, **IT Operations Specialist**, or **QA Tester** roles at global SaaS companies. 
@@ -97,9 +97,9 @@
 
 ---
 
-## 🗓️ Semester-by-Semester Masterplan
+## Semester-by-Semester Plan
 
-### 📍 Year 1, Trimester 2 (Current: Sep–Dec 2026)
+### Year 1, Trimester 2 (Current: Sep–Dec 2026)
 > **Theme:** Architectural Fundamentals & Network Programmability
 
 * **Primary Purpose:** Shift from raw coding scripts to structured object-oriented design patterns.
@@ -112,7 +112,7 @@
 
 ---
 
-### 📍 Year 2, Trimester 1 (Target: May 2027 — The Remote-Ready Window)
+### Year 2, Trimester 1 (Target: May 2027 — The Remote-Ready Window)
 > **Theme:** Data Persistence, Algorithmic Foundations & Remote Placement
 
 * **Primary Purpose:** Connect software logic to relational databases and hit the baseline required for global remote hiring.
@@ -126,7 +126,7 @@
 
 ---
 
-### 📍 Year 2, Trimester 2
+### Year 2, Trimester 2
 > **Theme:** Microservices & Containerization
 
 * **Primary Purpose:** Deconstruct monolithic codebases into isolated microservices and package them using containers.
@@ -139,7 +139,7 @@
 
 ---
 
-### 📍 Year 3, Trimester 1
+### Year 3, Trimester 1
 > **Theme:** Distributed Cloud Systems & Placement Preparation
 
 * **Primary Purpose:** Deploy containerized microservices to cloud environments and automate code delivery pipelines.
@@ -151,7 +151,7 @@
 
 ---
 
-### 📍 Year 3, Trimester 2 & 3
+### Year 3, Trimester 2 & 3
 > **Theme:** High-Concurrency Systems & Enterprise Placement
 
 * **Primary Purpose:** Optimize distributed systems for high concurrency and secure full-time placement.
@@ -164,7 +164,7 @@
 
 ---
 
-## 🏢 Industrial Attachment & Enterprise Pipeline
+## Industrial Attachment and Enterprise Pipeline
 
 Apply **4 to 6 months prior** to your official attachment trimester.
 
@@ -189,7 +189,7 @@ Apply **4 to 6 months prior** to your official attachment trimester.
 
 ---
 
-## ⚡ The Algorithm Routine (Interview Prep Engine)
+## Algorithm and Interview Preparation
 
 * **Frequency:** 2 hours per week, year-round.
 * **Primary Language:** **C++** (for explicit memory management awareness and raw execution speed).
@@ -202,7 +202,7 @@ Apply **4 to 6 months prior** to your official attachment trimester.
 
 ---
 
-## 🧠 Strategic Core Directives
+## Strategic Directives
 
 * **The 2028 Market Reality:** AI will automate basic frontend development and script boilerplate. Enterprise value belongs to engineers who master backend systems plumbing—databases, clouds, microservices, and network security layers.
 * **The 3.0 GPA Baseline:** Maintain your GPA to clear HR screening software, while dedicating your remaining energy to shipping functional backend software.
